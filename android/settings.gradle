@@ -1,0 +1,2 @@
+rootProject.name = 'hoinsprinterflutter'
+include ':hoinprinterlib-release', ':hoinSdk-release'
